@@ -3,6 +3,7 @@ backend:
   repo: OmarAguinaga/gatsby
 
 media_folder: static/assets
+public_folder: /assets
 
 collections:
   - name: post
